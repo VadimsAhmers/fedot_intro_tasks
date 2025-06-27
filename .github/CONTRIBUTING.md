@@ -63,6 +63,8 @@ If your contribution changes fedot_intro_tasks in any way:
 
 If your contribution involves any code changes:
 
+- Update the [project tests](https://github.com/VadimsAhmers/fedot_intro_tasks/tree/main/tests) to test your code changes.
+
 - Make sure that your code is properly commented with [docstrings](https://peps.python.org/pep-0257/) and comments explaining your rationale behind non-obvious coding practices.
 
 ## Acknowledgements
